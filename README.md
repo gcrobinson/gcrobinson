@@ -3,7 +3,7 @@
 
 - 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/6a05ab7986ce7d8bafea52f505adb088)
-    - eJpt Certification pending
+    - eJPT Certification pending
     - eCCPT Certification pending
 
 - <b>📚Currently Learning</b>
