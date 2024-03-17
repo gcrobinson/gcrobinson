@@ -9,7 +9,7 @@
 - <b>📚Currently Learning</b>
      - <i>Security Audits</i>
      - <i>Linux and SQL</i>
-     - <i>Automate Cybersecurity Tasks with Python</i>
+     - <i>Automateing Cybersecurity Tasks with Python</i>
 
 - <b>SQL and PostgreSQL</b>
    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
