@@ -1,12 +1,12 @@
 <h1>Hi, I'm Ginnelle! <br/><a
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
 
-- 🔭 <b>Currently Working on</b>
+- 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/6a05ab7986ce7d8bafea52f505adb088)
     - eJpt Certification pending
     - eCCPT Certification pending
 
-- <b>🌱Currently Learning</b>
+- <b>📚Currently Learning</b>
      - <i>Security Audits</i>
      - <i>Linux and SQL</i>
      - <i>Cybersecurity Attacks with Python</i>
