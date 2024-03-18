@@ -11,6 +11,9 @@
      - <i>Linux and SQL</i>
      - <i>Automating Cybersecurity Tasks with Python</i>
 
+- <b>Security Audit</b>
+   - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
+
 - <b>SQL and PostgreSQL</b>
    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
    - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
