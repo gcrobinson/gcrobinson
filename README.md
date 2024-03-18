@@ -6,7 +6,7 @@
     - eJPT Certification pending
     - eCCPT Certification pending
 
-- 📚<b>Currently Learning</b>
+- 📚 <b>Currently Learning</b>
      - <i>Security Audits</i>
      - <i>Linux and SQL</i>
      - <i>Automating Cybersecurity Tasks with Python</i>
