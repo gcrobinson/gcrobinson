@@ -7,10 +7,13 @@
     - eCCPT Certification pending
 
 - 📚 <b>Currently Learning</b>
-     - <i>Security Audits</i>
+     - <i>Networking</i>
      - <i>Linux and SQL</i>
      - <i>Automating Cybersecurity Tasks with Python</i>
 
+- <b>NISF CSF</b>
+   - [NIST CSF Report Analysis ](https://github.com/gcrobinson/NIST-CSF-REPORT)
+    
 - <b>Security Audit</b>
    - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
 
