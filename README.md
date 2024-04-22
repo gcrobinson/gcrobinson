@@ -11,6 +11,9 @@
      - <i>Linux and SQL</i>
      - <i>Automating Cybersecurity Tasks with Python</i>
 
+ - <b>Linux</b>
+   - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
+
 - <b>NISF CSF</b>
    - [NIST CSF Report Analysis ](https://github.com/gcrobinson/NIST-CSF-REPORT)
     
