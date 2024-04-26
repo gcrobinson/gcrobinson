@@ -21,10 +21,11 @@
    - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
 
 - <b>SQL and PostgreSQL</b>
-   - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
-   - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
-   - [Occupation Database](https://github.com/gcrobinson/SQL/blob/main/Occupation%20Database)
-   - [Order & Customer Analytics](https://github.com/gcrobinson/SQL/blob/main/Order%20%26%20Customer%20Analytics)
+    - [Qwiklabs User Activity](https://github.com/gcrobinson/SQL/blob/main/Qwiklabs%20User%20Activity)
+    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
+    - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
+    - [Order & Customer Analytics](https://github.com/gcrobinson/SQL/blob/main/Order%20%26%20Customer%20Analytics)
+  
 
 
 <h2>📺  YouTube Videos</h2>
