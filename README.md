@@ -1,15 +1,26 @@
 <h1>Hi, I'm Ginnelle! <br/><a
 <h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
-
+    
 - 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/6a05ab7986ce7d8bafea52f505adb088)
     - eJPT Certification pending
     - eCCPT Certification pending
-
+      
 - 📚 <b>Currently Learning</b>
-     - <i>Networking</i>
-     - <i>Linux and SQL</i>
-     - <i>Automating Cybersecurity Tasks with Python</i>
+    - <i>Networking Traffic Analysis</i>
+    - <i>Automating Cybersecurity Tasks with Python</i>
+    - <i>Linux and SQL</i>
+    
+
+ 
+<b>PROJECTS</b>
+
+- <b>SQL and PostgreSQL</b>
+    - [Qwiklabs User Activity](https://github.com/gcrobinson/SQL/blob/main/Qwiklabs%20User%20Activity)
+    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
+    - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
+    - [Order & Customer Analytics](https://github.com/gcrobinson/SQL/blob/main/Order%20%26%20Customer%20Analytics)
+ 
 
  - <b>Linux</b>
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
@@ -20,13 +31,12 @@
 - <b>Security Audit</b>
    - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
 
-- <b>SQL and PostgreSQL</b>
-    - [Qwiklabs User Activity](https://github.com/gcrobinson/SQL/blob/main/Qwiklabs%20User%20Activity)
-    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
-    - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
-    - [Order & Customer Analytics](https://github.com/gcrobinson/SQL/blob/main/Order%20%26%20Customer%20Analytics)
+    
+- 📚 <b>Currently Learning</b>
+    - <i>Networking Traffic Analysis</i>
+    - <i>Automating Cybersecurity Tasks with Python</i>
+    - <i>Linux and SQL</i>
   
-
 
 <h2>📺  YouTube Videos</h2>
 Coming soon
@@ -39,17 +49,4 @@ Coming soon
 [youtube]: https://www.youtube.com/@GinnelleRobinson
 [linkedin]: https://www.linkedin.com/in/ginnelle-c-robinson/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
