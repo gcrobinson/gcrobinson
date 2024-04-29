@@ -31,11 +31,6 @@
 - <b>Security Audit</b>
    - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
 
-    
-- 📚 <b>Currently Learning</b>
-    - <i>Networking Traffic Analysis</i>
-    - <i>Automating Cybersecurity Tasks with Python</i>
-    - <i>Linux and SQL</i>
   
 
 <h2>📺  YouTube Videos</h2>
