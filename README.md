@@ -19,7 +19,7 @@
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
 
 - <b> CSF</b>
-   - [NIST CyberSecurity Framework (CSF) Report Analysis ](https://github.com/gcrobinson/NIST-CSF-REPORT)
+   - [NIST CyberSecurity Framework (CSF) Report Analysis ]([https://github.com/gcrobinson/CSF-REPORT/blob/main/README.md)
     
 - <b>Security Audit</b>
    - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
