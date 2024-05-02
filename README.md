@@ -15,13 +15,6 @@
  
 <b>PROJECTS</b>
 
-- <b>SQL and PostgreSQL</b>
-    - [Qwiklabs User Activity](https://github.com/gcrobinson/SQL/blob/main/Qwiklabs%20User%20Activity)
-    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
-    - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
-    - [Order & Customer Analytics](https://github.com/gcrobinson/SQL/blob/main/Order%20%26%20Customer%20Analytics)
- 
-
  - <b>Linux</b>
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
 
@@ -31,7 +24,12 @@
 - <b>Security Audit</b>
    - [Botium Toys Audit Checklist](https://github.com/gcrobinson/SecurityAudit)
 
-  
+  - <b>SQL and PostgreSQL</b>
+    - [Qwiklabs User Activity](https://github.com/gcrobinson/SQL/blob/main/Qwiklabs%20User%20Activity)
+    - [Beauty Brand Database and Stats](https://github.com/gcrobinson/SQL/blob/main/Beauty%20Brand%20Database%20and%20Stats)
+    - [Netflix Analysis PostgreSQL](https://github.com/gcrobinson/SQL/blob/main/Netflix%20Analysis%20PostgreSQL)
+    - [Order & Customer Analytics](https://github.com/gcrobinson/SQL/blob/main/Order%20%26%20Customer%20Analytics)
+ 
 
 <h2>📺  YouTube Videos</h2>
 Coming soon
