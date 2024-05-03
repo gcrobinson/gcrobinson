@@ -21,7 +21,7 @@
  - <b>Linux</b>
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
 
-- <b> CSF</b>
+- <b> NIST CSF</b>
    - [NIST CyberSecurity Framework (CSF) Report Analysis](https://github.com/gcrobinson/CSF-REPORT)
     
 - <b>Security Audit</b>
