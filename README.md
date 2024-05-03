@@ -15,6 +15,9 @@
  
 <b>PROJECTS</b>
 
+- <b>Wireshark</b>
+   - [Introduction to basic functionalities](https://github.com/gcrobinson/Wireshark/blob/main/basicfunctionalities.md)
+
  - <b>Linux</b>
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
 
