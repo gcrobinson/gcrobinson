@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ginnelle! <br/><a
-<h2> 👩🏾‍💻 Cybersecurity Projects:</h2>
+<h2> 👩🏾‍💻 Cybersecurity Portfolio:</h2>
     
 - 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/6a05ab7986ce7d8bafea52f505adb088)
