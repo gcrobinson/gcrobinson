@@ -17,9 +17,12 @@
 
 - <b>Wireshark</b>
    - [Introduction to basic functionalities](https://github.com/gcrobinson/Wireshark/blob/main/basicfunctionalities.md)
-
- - <b>Linux</b>
+ 
+     
+- <b>Linux</b>
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
+   - [Cryptography](https://github.com/gcrobinson/Cryptography)
+       - [Decrypt a hidden message](https://github.com/gcrobinson/Cryptography/blob/main/Decrypt%20an%20encrypted%20message.md)
 
 - <b> NIST CSF</b>
    - [NIST CyberSecurity Framework (CSF) Report Analysis](https://github.com/gcrobinson/CSF-REPORT)
