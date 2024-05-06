@@ -4,7 +4,7 @@
 - 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/6a05ab7986ce7d8bafea52f505adb088)
     - eJPT Certification pending
-    - Goal: OSCP Certification
+        - **Goal**: OSCP Certification
       
 - 📚 <b>Currently Learning</b>
     - <i>Networking Traffic Analysis</i>
