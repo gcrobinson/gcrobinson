@@ -23,6 +23,7 @@
    - [File Permissions ](https://github.com/gcrobinson/Linux/blob/main/filepermissions.md)
    - [Cryptography](https://github.com/gcrobinson/Cryptography)
        - [Decrypt a hidden message](https://github.com/gcrobinson/Cryptography/blob/main/Decrypt%20an%20encrypted%20message.md)
+       - [Creating hash values](https://github.com/gcrobinson/Cryptography/blob/main/Creating%20Hash%20Values.md)
 
 - <b> NIST CSF</b>
    - [NIST CyberSecurity Framework (CSF) Report Analysis](https://github.com/gcrobinson/CSF-REPORT)
