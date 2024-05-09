@@ -9,7 +9,7 @@
 - 📚 <b>Currently Learning</b>
     - <i>Networking Traffic Analysis</i>
     - <i>Automating Cybersecurity Tasks with Python</i>
-    - <i>Linux and SQL</i>
+    - <i>Vulnerabiltiy Assessments</i>
     
 
  
