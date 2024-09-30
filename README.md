@@ -1,15 +1,24 @@
 <h1>Hi, I'm Ginnelle! <br/><a
 <h2> 👩🏾‍💻 Cybersecurity Portfolio:</h2>
+
+
+
+
+
     
 - 🛡️ <b>Currently Working on</b>
-    - [Google Cybersecurity Certificate](https://coursera.org/share/6a05ab7986ce7d8bafea52f505adb088)
-    - eJPT Certification pending
-        - **Goal**: OSCP Certification
+    - [Google Cybersecurity Certificate](https://coursera.org/share/c9cd298b00299fc09b0c29aecb5da57c)
+        - Automate Cybersecurity Tasks with Python <i> pending <i/>
+    - Hack The Box Information Security Foundations
+        - Linux Fundamentals <i> pending <i/>
+    - Khan Academy
+        - Statistics and probability
+        
       
-- 📚 <b>Currently Learning</b>
-    - <i>Networking Traffic Analysis</i>
-    - <i>Automating Cybersecurity Tasks with Python</i>
-    - <i>Vulnerabiltiy Assessments</i>
+- 📚 <b>Goals</b>
+    - <i>eJPT Certification</i>
+    - <i>eCCPT Certification</i>
+        - **Final Goal** <i>OSCP Certification</i>
     
 
  
