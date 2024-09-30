@@ -6,13 +6,14 @@
     - [Google Cybersecurity Certificate](https://coursera.org/share/c9cd298b00299fc09b0c29aecb5da57c)
         - Automate Cybersecurity Tasks with Python 
     - Hack The Box Information Security Foundations
-        - Linux Fundamentals
+        - Linux Fundamentals (overview)
     - Khan Academy
         - Statistics and probability
         
       
 - 📚 <b>Goals</b>
     - <i>eJPT Certification</i>
+    - <i> Standford University Machine Learning <i/>
     - <i>eCCPT Certification</i>
         - **Final Goal** <i>OSCP Certification</i>
     
