@@ -12,10 +12,11 @@
         
       
 - 📚 <b>Goals</b>
-    - <i>eJPT Certification</i>
+    - <i>Blue Team 1 certification</i>
     - <i> Standford University Machine Learning <i/>
-    - <i>eCCPT Certification</i>
-        - **Final Goal** <i>OSCP Certification</i>
+    - <i>TCM Python 1 and 2</i>
+    - Splunk
+      
     
 
  
