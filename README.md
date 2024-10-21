@@ -5,17 +5,18 @@
 - 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/c9cd298b00299fc09b0c29aecb5da57c)
         - Automate Cybersecurity Tasks with Python 
-    - Hack The Box Information Security Foundations
-        - Linux Fundamentals (overview)
-    - Khan Academy
-        - Statistics and probability
+    - TCM Security
+        - GRC Analyst Master Class
+  
         
       
 - 📚 <b>Goals</b>
-    - <i>Blue Team 1 certification</i>
-    - <i> Standford University Machine Learning <i/>
-    - <i>TCM Python 1 and 2</i>
-    - Splunk
+    - <i> GRC Mastery Certification </i>
+    - <i> Tryhackme SOC 1 </i>
+    - <i> Blue Team 1 certification </i>
+    - <i> eJPT </i>
+    
+    
       
     
 
