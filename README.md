@@ -5,16 +5,15 @@
 - 🛡️ <b>Currently Working on</b>
     - [Google Cybersecurity Certificate](https://coursera.org/share/c9cd298b00299fc09b0c29aecb5da57c)
         - Automate Cybersecurity Tasks with Python 
-    - TCM Security
-        - GRC Analyst Master Class
+    - Mcafee Institute
+        - Certified in Open Sourc Intelligence (C|OSINT)
   
         
       
 - 📚 <b>Goals</b>
-    - <i> GRC Mastery Certification </i>
-    - <i> Tryhackme SOC 1 </i>
-    - <i> Blue Team 1 certification </i>
-    - <i> eJPT </i>
+    - <i> Trace Labs CTFs </i>
+    - <i> Tcm Practical Osint Professional </i>
+    - <i> GOSI </i>
     
     
       
