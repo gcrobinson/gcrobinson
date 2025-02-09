@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ginnelle Robinson 
+#  Hi, I'm Ginnelle Robinson 
 
 ## 🔹 About Me
 - 💡 **Interested in data analysis, automation, and AI product management**  
