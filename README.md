@@ -2,7 +2,7 @@
 
 ## 🔹 About Me
 💡 **I developed a strong foundation in data analysis through self-driven learning and hands-on projects.**
-- 🧠 Proficient in basic SQL, linux, and basic automation, with a focus on turning data into practical insights.
+- 🧠 Proficient in linux, basic SQL and entry level automation, with a focus on turning data into practical insights.
 - 📁 This GitHub showcases select projects completed during my exploration of data and tech.  
 
 ## 📊 My SQL Projects  
