@@ -1,9 +1,9 @@
 #  Hi, I'm Ginnelle Robinson 
 
 ## 🔹 About Me
-- 💡 **Interested in data analysis, automation, and AI product management**  
-- 📊 **Currently learning Python and refreshing SQL through hands-on projects**  
-- 🔍 **Building a stronger foundation in database management and analytics**  
+💡 **I developed a strong foundation in data analysis through self-driven learning and hands-on projects.**
+- 🧠 Proficient in Python, SQL, and basic automation, with a focus on turning data into practical insights.
+- 📁 This GitHub showcases select projects completed during my exploration of data and tech.  
 
 ## 📊 My SQL Projects  
 🔹 [**Qwiklabs User Activity**](https://github.com/gcrobinson/SQL/blob/main/Qwiklabs%20User%20Activity) – Analyzed user interactions using SQL  
